@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890594377354",
+    "project_id": "omdb-movies-a0750",
+    "storage_bucket": "omdb-movies-a0750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890594377354:android:88fb2944ce1efab4307773",
+        "android_client_info": {
+          "package_name": "com.progressodev.omdb_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890594377354-ethdhrqrgp721e5mf0s2b8mkjjj55sl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjQe_F4Fezdj5i3_muWtHyracY7xxUfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890594377354-ethdhrqrgp721e5mf0s2b8mkjjj55sl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
